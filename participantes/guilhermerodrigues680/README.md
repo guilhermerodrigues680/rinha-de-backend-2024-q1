@@ -14,7 +14,7 @@ Submissão feita com:
 
 - `nginx` como load balancer
 - `postgres` como banco de dados
-- `go` para api com as libs `julienschmidt/httprouter` e `lib/pq`
+- `go` para api com as libs `julienschmidt/httprouter` e `jackc/pgx`
 - **repositório da api:** [github.com/guilhermerodrigues680/rinha-2024q1-crebito](https://github.com/guilhermerodrigues680/rinha-2024q1-crebito)
 
 <table>
